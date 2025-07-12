@@ -1,0 +1,11 @@
+# Ignora tudo
+*
+
+# Mas não ignora o próprio .gitignore
+!.gitignore
+
+# E permite o README.md (se necessário)
+!README.md
+
+# Permite pastas específicas (exemplo: src)
+!.zshrc
