@@ -9,3 +9,4 @@
 
 # Permite pastas específicas (exemplo: src)
 !.zshrc
+!vscode.json
